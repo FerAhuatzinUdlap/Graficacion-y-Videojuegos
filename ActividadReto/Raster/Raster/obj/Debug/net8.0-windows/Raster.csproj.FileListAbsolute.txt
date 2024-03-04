@@ -1,0 +1,80 @@
+C:\Users\ladis\OneDrive\Escritorio\UDLAP CLASES\LABORATORIO DE VIDEOJUEGOS\PARCIAL 2\Raster\Raster\obj\Debug\net8.0-windows\Raster.Form1.resources
+C:\Users\ladis\OneDrive\Escritorio\UDLAP CLASES\LABORATORIO DE VIDEOJUEGOS\PARCIAL 2\Raster\Raster\obj\Debug\net8.0-windows\Raster.csproj.GenerateResource.cache
+C:\Users\ladis\OneDrive\Escritorio\UDLAP CLASES\LABORATORIO DE VIDEOJUEGOS\PARCIAL 2\Raster\Raster\obj\Debug\net8.0-windows\Raster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ladis\OneDrive\Escritorio\UDLAP CLASES\LABORATORIO DE VIDEOJUEGOS\PARCIAL 2\Raster\Raster\obj\Debug\net8.0-windows\Raster.AssemblyInfoInputs.cache
+C:\Users\ladis\OneDrive\Escritorio\UDLAP CLASES\LABORATORIO DE VIDEOJUEGOS\PARCIAL 2\Raster\Raster\obj\Debug\net8.0-windows\Raster.AssemblyInfo.cs
+C:\Users\ladis\OneDrive\Escritorio\UDLAP CLASES\LABORATORIO DE VIDEOJUEGOS\PARCIAL 2\Raster\Raster\obj\Debug\net8.0-windows\Raster.csproj.CoreCompileInputs.cache
+C:\Users\ladis\OneDrive\Escritorio\UDLAP CLASES\LABORATORIO DE VIDEOJUEGOS\PARCIAL 2\Raster\Raster\bin\Debug\net8.0-windows\Raster.exe
+C:\Users\ladis\OneDrive\Escritorio\UDLAP CLASES\LABORATORIO DE VIDEOJUEGOS\PARCIAL 2\Raster\Raster\bin\Debug\net8.0-windows\Raster.deps.json
+C:\Users\ladis\OneDrive\Escritorio\UDLAP CLASES\LABORATORIO DE VIDEOJUEGOS\PARCIAL 2\Raster\Raster\bin\Debug\net8.0-windows\Raster.runtimeconfig.json
+C:\Users\ladis\OneDrive\Escritorio\UDLAP CLASES\LABORATORIO DE VIDEOJUEGOS\PARCIAL 2\Raster\Raster\bin\Debug\net8.0-windows\Raster.dll
+C:\Users\ladis\OneDrive\Escritorio\UDLAP CLASES\LABORATORIO DE VIDEOJUEGOS\PARCIAL 2\Raster\Raster\bin\Debug\net8.0-windows\Raster.pdb
+C:\Users\ladis\OneDrive\Escritorio\UDLAP CLASES\LABORATORIO DE VIDEOJUEGOS\PARCIAL 2\Raster\Raster\obj\Debug\net8.0-windows\Raster.dll
+C:\Users\ladis\OneDrive\Escritorio\UDLAP CLASES\LABORATORIO DE VIDEOJUEGOS\PARCIAL 2\Raster\Raster\obj\Debug\net8.0-windows\refint\Raster.dll
+C:\Users\ladis\OneDrive\Escritorio\UDLAP CLASES\LABORATORIO DE VIDEOJUEGOS\PARCIAL 2\Raster\Raster\obj\Debug\net8.0-windows\Raster.pdb
+C:\Users\ladis\OneDrive\Escritorio\UDLAP CLASES\LABORATORIO DE VIDEOJUEGOS\PARCIAL 2\Raster\Raster\obj\Debug\net8.0-windows\Raster.genruntimeconfig.cache
+C:\Users\ladis\OneDrive\Escritorio\UDLAP CLASES\LABORATORIO DE VIDEOJUEGOS\PARCIAL 2\Raster\Raster\obj\Debug\net8.0-windows\ref\Raster.dll
+C:\Users\f126a\Downloads\Raster\Raster\Raster\obj\Debug\net8.0-windows\Raster.Form1.resources
+C:\Users\f126a\Downloads\Raster\Raster\Raster\obj\Debug\net8.0-windows\Raster.csproj.GenerateResource.cache
+C:\Users\f126a\Downloads\Raster\Raster\Raster\obj\Debug\net8.0-windows\Raster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f126a\Downloads\Raster\Raster\Raster\obj\Debug\net8.0-windows\Raster.AssemblyInfoInputs.cache
+C:\Users\f126a\Downloads\Raster\Raster\Raster\obj\Debug\net8.0-windows\Raster.AssemblyInfo.cs
+C:\Users\f126a\Downloads\Raster\Raster\Raster\obj\Debug\net8.0-windows\Raster.csproj.CoreCompileInputs.cache
+C:\Users\f126a\Downloads\Raster\Raster\Raster\obj\Debug\net8.0-windows\Raster.dll
+C:\Users\f126a\Downloads\Raster\Raster\Raster\obj\Debug\net8.0-windows\refint\Raster.dll
+C:\Users\f126a\Downloads\Raster\Raster\Raster\obj\Debug\net8.0-windows\Raster.pdb
+C:\Users\f126a\Downloads\Raster\Raster\Raster\bin\Debug\net8.0-windows\Raster.exe
+C:\Users\f126a\Downloads\Raster\Raster\Raster\bin\Debug\net8.0-windows\Raster.deps.json
+C:\Users\f126a\Downloads\Raster\Raster\Raster\bin\Debug\net8.0-windows\Raster.runtimeconfig.json
+C:\Users\f126a\Downloads\Raster\Raster\Raster\bin\Debug\net8.0-windows\Raster.dll
+C:\Users\f126a\Downloads\Raster\Raster\Raster\bin\Debug\net8.0-windows\Raster.pdb
+C:\Users\f126a\Downloads\Raster\Raster\Raster\obj\Debug\net8.0-windows\Raster.genruntimeconfig.cache
+C:\Users\f126a\Downloads\Raster\Raster\Raster\obj\Debug\net8.0-windows\ref\Raster.dll
+D:\OneDrive\UDLAP\6to semestre\Graficacion\Visual\Raster\Raster\Raster\obj\Debug\net8.0-windows\Raster.Form1.resources
+D:\OneDrive\UDLAP\6to semestre\Graficacion\Visual\Raster\Raster\Raster\obj\Debug\net8.0-windows\Raster.csproj.GenerateResource.cache
+D:\OneDrive\UDLAP\6to semestre\Graficacion\Visual\Raster\Raster\Raster\obj\Debug\net8.0-windows\Raster.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\UDLAP\6to semestre\Graficacion\Visual\Raster\Raster\Raster\obj\Debug\net8.0-windows\Raster.AssemblyInfoInputs.cache
+D:\OneDrive\UDLAP\6to semestre\Graficacion\Visual\Raster\Raster\Raster\obj\Debug\net8.0-windows\Raster.AssemblyInfo.cs
+D:\OneDrive\UDLAP\6to semestre\Graficacion\Visual\Raster\Raster\Raster\obj\Debug\net8.0-windows\Raster.csproj.CoreCompileInputs.cache
+D:\OneDrive\UDLAP\6to semestre\Graficacion\Visual\Raster\Raster\Raster\obj\Debug\net8.0-windows\Raster.dll
+D:\OneDrive\UDLAP\6to semestre\Graficacion\Visual\Raster\Raster\Raster\obj\Debug\net8.0-windows\refint\Raster.dll
+D:\OneDrive\UDLAP\6to semestre\Graficacion\Visual\Raster\Raster\Raster\obj\Debug\net8.0-windows\Raster.pdb
+D:\OneDrive\UDLAP\6to semestre\Graficacion\Visual\Raster\Raster\Raster\bin\Debug\net8.0-windows\Raster.exe
+D:\OneDrive\UDLAP\6to semestre\Graficacion\Visual\Raster\Raster\Raster\bin\Debug\net8.0-windows\Raster.deps.json
+D:\OneDrive\UDLAP\6to semestre\Graficacion\Visual\Raster\Raster\Raster\bin\Debug\net8.0-windows\Raster.runtimeconfig.json
+D:\OneDrive\UDLAP\6to semestre\Graficacion\Visual\Raster\Raster\Raster\bin\Debug\net8.0-windows\Raster.dll
+D:\OneDrive\UDLAP\6to semestre\Graficacion\Visual\Raster\Raster\Raster\bin\Debug\net8.0-windows\Raster.pdb
+D:\OneDrive\UDLAP\6to semestre\Graficacion\Visual\Raster\Raster\Raster\obj\Debug\net8.0-windows\Raster.genruntimeconfig.cache
+D:\OneDrive\UDLAP\6to semestre\Graficacion\Visual\Raster\Raster\Raster\obj\Debug\net8.0-windows\ref\Raster.dll
+D:\OneDrive\UDLAP\6to semestre\Graficacion\Raster\Raster\Raster\Raster\bin\Debug\net8.0-windows\Raster.exe
+D:\OneDrive\UDLAP\6to semestre\Graficacion\Raster\Raster\Raster\Raster\bin\Debug\net8.0-windows\Raster.deps.json
+D:\OneDrive\UDLAP\6to semestre\Graficacion\Raster\Raster\Raster\Raster\bin\Debug\net8.0-windows\Raster.runtimeconfig.json
+D:\OneDrive\UDLAP\6to semestre\Graficacion\Raster\Raster\Raster\Raster\bin\Debug\net8.0-windows\Raster.dll
+D:\OneDrive\UDLAP\6to semestre\Graficacion\Raster\Raster\Raster\Raster\bin\Debug\net8.0-windows\Raster.pdb
+D:\OneDrive\UDLAP\6to semestre\Graficacion\Raster\Raster\Raster\Raster\obj\Debug\net8.0-windows\Raster.Form1.resources
+D:\OneDrive\UDLAP\6to semestre\Graficacion\Raster\Raster\Raster\Raster\obj\Debug\net8.0-windows\Raster.csproj.GenerateResource.cache
+D:\OneDrive\UDLAP\6to semestre\Graficacion\Raster\Raster\Raster\Raster\obj\Debug\net8.0-windows\Raster.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\UDLAP\6to semestre\Graficacion\Raster\Raster\Raster\Raster\obj\Debug\net8.0-windows\Raster.AssemblyInfoInputs.cache
+D:\OneDrive\UDLAP\6to semestre\Graficacion\Raster\Raster\Raster\Raster\obj\Debug\net8.0-windows\Raster.AssemblyInfo.cs
+D:\OneDrive\UDLAP\6to semestre\Graficacion\Raster\Raster\Raster\Raster\obj\Debug\net8.0-windows\Raster.csproj.CoreCompileInputs.cache
+D:\OneDrive\UDLAP\6to semestre\Graficacion\Raster\Raster\Raster\Raster\obj\Debug\net8.0-windows\Raster.dll
+D:\OneDrive\UDLAP\6to semestre\Graficacion\Raster\Raster\Raster\Raster\obj\Debug\net8.0-windows\refint\Raster.dll
+D:\OneDrive\UDLAP\6to semestre\Graficacion\Raster\Raster\Raster\Raster\obj\Debug\net8.0-windows\Raster.pdb
+D:\OneDrive\UDLAP\6to semestre\Graficacion\Raster\Raster\Raster\Raster\obj\Debug\net8.0-windows\Raster.genruntimeconfig.cache
+D:\OneDrive\UDLAP\6to semestre\Graficacion\Raster\Raster\Raster\Raster\obj\Debug\net8.0-windows\ref\Raster.dll
+C:\Users\f126a\Downloads\Raster3\Raster\Raster\Raster\Raster\bin\Debug\net8.0-windows\Raster.exe
+C:\Users\f126a\Downloads\Raster3\Raster\Raster\Raster\Raster\bin\Debug\net8.0-windows\Raster.deps.json
+C:\Users\f126a\Downloads\Raster3\Raster\Raster\Raster\Raster\bin\Debug\net8.0-windows\Raster.runtimeconfig.json
+C:\Users\f126a\Downloads\Raster3\Raster\Raster\Raster\Raster\bin\Debug\net8.0-windows\Raster.dll
+C:\Users\f126a\Downloads\Raster3\Raster\Raster\Raster\Raster\bin\Debug\net8.0-windows\Raster.pdb
+C:\Users\f126a\Downloads\Raster3\Raster\Raster\Raster\Raster\obj\Debug\net8.0-windows\Raster.Form1.resources
+C:\Users\f126a\Downloads\Raster3\Raster\Raster\Raster\Raster\obj\Debug\net8.0-windows\Raster.csproj.GenerateResource.cache
+C:\Users\f126a\Downloads\Raster3\Raster\Raster\Raster\Raster\obj\Debug\net8.0-windows\Raster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f126a\Downloads\Raster3\Raster\Raster\Raster\Raster\obj\Debug\net8.0-windows\Raster.AssemblyInfoInputs.cache
+C:\Users\f126a\Downloads\Raster3\Raster\Raster\Raster\Raster\obj\Debug\net8.0-windows\Raster.AssemblyInfo.cs
+C:\Users\f126a\Downloads\Raster3\Raster\Raster\Raster\Raster\obj\Debug\net8.0-windows\Raster.csproj.CoreCompileInputs.cache
+C:\Users\f126a\Downloads\Raster3\Raster\Raster\Raster\Raster\obj\Debug\net8.0-windows\Raster.dll
+C:\Users\f126a\Downloads\Raster3\Raster\Raster\Raster\Raster\obj\Debug\net8.0-windows\refint\Raster.dll
+C:\Users\f126a\Downloads\Raster3\Raster\Raster\Raster\Raster\obj\Debug\net8.0-windows\Raster.pdb
+C:\Users\f126a\Downloads\Raster3\Raster\Raster\Raster\Raster\obj\Debug\net8.0-windows\Raster.genruntimeconfig.cache
+C:\Users\f126a\Downloads\Raster3\Raster\Raster\Raster\Raster\obj\Debug\net8.0-windows\ref\Raster.dll
