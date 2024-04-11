@@ -1,0 +1,55 @@
+E:\DOCS\CLASES\GRAPHIX\PARCIAL IV\0001\0001\bin\Debug\0001.exe
+E:\DOCS\CLASES\GRAPHIX\PARCIAL IV\0001\0001\bin\Debug\0001.pdb
+E:\DOCS\CLASES\GRAPHIX\PARCIAL IV\0001\0001\obj\x86\Debug\_0001.MAIN.resources
+E:\DOCS\CLASES\GRAPHIX\PARCIAL IV\0001\0001\obj\x86\Debug\_0001.Properties.Resources.resources
+E:\DOCS\CLASES\GRAPHIX\PARCIAL IV\0001\0001\obj\x86\Debug\0001.csproj.GenerateResource.Cache
+E:\DOCS\CLASES\GRAPHIX\PARCIAL IV\0001\0001\obj\x86\Debug\0001.exe
+E:\DOCS\CLASES\GRAPHIX\PARCIAL IV\0001\0001\obj\x86\Debug\0001.pdb
+E:\DOCS\CLASES\GRAPHIX\PARCIAL IV\0001\0001\obj\x86\Debug\_0001.FormPreviewDialog.resources
+E:\DOCS\CLASES\GRAPHIX\PARCIAL IV\0001\0001\obj\x86\Debug\0001.csprojResolveAssemblyReference.cache
+D:\6to Semestre\Videojuegos\Playground Img Proc\0001\bin\Debug\0001.exe.config
+D:\6to Semestre\Videojuegos\Playground Img Proc\0001\bin\Debug\0001.exe
+D:\6to Semestre\Videojuegos\Playground Img Proc\0001\bin\Debug\0001.pdb
+D:\6to Semestre\Videojuegos\Playground Img Proc\0001\obj\x86\Debug\0001.csproj.AssemblyReference.cache
+D:\6to Semestre\Videojuegos\Playground Img Proc\0001\obj\x86\Debug\_0001.FormPreviewDialog.resources
+D:\6to Semestre\Videojuegos\Playground Img Proc\0001\obj\x86\Debug\_0001.MAIN.resources
+D:\6to Semestre\Videojuegos\Playground Img Proc\0001\obj\x86\Debug\_0001.Properties.Resources.resources
+D:\6to Semestre\Videojuegos\Playground Img Proc\0001\obj\x86\Debug\0001.csproj.GenerateResource.cache
+D:\6to Semestre\Videojuegos\Playground Img Proc\0001\obj\x86\Debug\0001.csproj.CoreCompileInputs.cache
+D:\6to Semestre\Videojuegos\Playground Img Proc\0001\obj\x86\Debug\0001.exe
+D:\6to Semestre\Videojuegos\Playground Img Proc\0001\obj\x86\Debug\0001.pdb
+C:\Users\Admin\Desktop\dwa\Playground Img Proc\0001\bin\Debug\0001.exe.config
+C:\Users\Admin\Desktop\dwa\Playground Img Proc\0001\bin\Debug\0001.exe
+C:\Users\Admin\Desktop\dwa\Playground Img Proc\0001\bin\Debug\0001.pdb
+C:\Users\Admin\Desktop\dwa\Playground Img Proc\0001\obj\x86\Debug\0001.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\dwa\Playground Img Proc\0001\obj\x86\Debug\_0001.FormPreviewDialog.resources
+C:\Users\Admin\Desktop\dwa\Playground Img Proc\0001\obj\x86\Debug\_0001.MAIN.resources
+C:\Users\Admin\Desktop\dwa\Playground Img Proc\0001\obj\x86\Debug\_0001.Properties.Resources.resources
+C:\Users\Admin\Desktop\dwa\Playground Img Proc\0001\obj\x86\Debug\0001.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\dwa\Playground Img Proc\0001\obj\x86\Debug\0001.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\dwa\Playground Img Proc\0001\obj\x86\Debug\0001.exe
+C:\Users\Admin\Desktop\dwa\Playground Img Proc\0001\obj\x86\Debug\0001.pdb
+C:\Users\armen\Downloads\Playground Img ProcLadis\Playground Img Proc\0001\bin\Debug\0001.exe.config
+C:\Users\armen\Downloads\Playground Img ProcLadis\Playground Img Proc\0001\bin\Debug\0001.exe
+C:\Users\armen\Downloads\Playground Img ProcLadis\Playground Img Proc\0001\bin\Debug\0001.pdb
+C:\Users\armen\Downloads\Playground Img ProcLadis\Playground Img Proc\0001\obj\x86\Debug\0001.csproj.AssemblyReference.cache
+C:\Users\armen\Downloads\Playground Img ProcLadis\Playground Img Proc\0001\obj\x86\Debug\_0001.FormPreviewDialog.resources
+C:\Users\armen\Downloads\Playground Img ProcLadis\Playground Img Proc\0001\obj\x86\Debug\_0001.MAIN.resources
+C:\Users\armen\Downloads\Playground Img ProcLadis\Playground Img Proc\0001\obj\x86\Debug\_0001.Properties.Resources.resources
+C:\Users\armen\Downloads\Playground Img ProcLadis\Playground Img Proc\0001\obj\x86\Debug\0001.csproj.GenerateResource.cache
+C:\Users\armen\Downloads\Playground Img ProcLadis\Playground Img Proc\0001\obj\x86\Debug\0001.csproj.CoreCompileInputs.cache
+C:\Users\armen\Downloads\Playground Img ProcLadis\Playground Img Proc\0001\obj\x86\Debug\0001.exe
+C:\Users\armen\Downloads\Playground Img ProcLadis\Playground Img Proc\0001\obj\x86\Debug\0001.pdb
+C:\Users\armen\Downloads\Playground Img ProcLadis\Playground Img Proc\0001\obj\x86\Debug\_0001.Histograma.resources
+C:\Users\f126a\Downloads\Playground Img ProcLadis\Playground Img ProcLadis\Playground Img Proc\0001\bin\Debug\0001.exe.config
+C:\Users\f126a\Downloads\Playground Img ProcLadis\Playground Img ProcLadis\Playground Img Proc\0001\bin\Debug\0001.exe
+C:\Users\f126a\Downloads\Playground Img ProcLadis\Playground Img ProcLadis\Playground Img Proc\0001\bin\Debug\0001.pdb
+C:\Users\f126a\Downloads\Playground Img ProcLadis\Playground Img ProcLadis\Playground Img Proc\0001\obj\x86\Debug\0001.csproj.AssemblyReference.cache
+C:\Users\f126a\Downloads\Playground Img ProcLadis\Playground Img ProcLadis\Playground Img Proc\0001\obj\x86\Debug\_0001.FormPreviewDialog.resources
+C:\Users\f126a\Downloads\Playground Img ProcLadis\Playground Img ProcLadis\Playground Img Proc\0001\obj\x86\Debug\_0001.Histograma.resources
+C:\Users\f126a\Downloads\Playground Img ProcLadis\Playground Img ProcLadis\Playground Img Proc\0001\obj\x86\Debug\_0001.MAIN.resources
+C:\Users\f126a\Downloads\Playground Img ProcLadis\Playground Img ProcLadis\Playground Img Proc\0001\obj\x86\Debug\_0001.Properties.Resources.resources
+C:\Users\f126a\Downloads\Playground Img ProcLadis\Playground Img ProcLadis\Playground Img Proc\0001\obj\x86\Debug\0001.csproj.GenerateResource.cache
+C:\Users\f126a\Downloads\Playground Img ProcLadis\Playground Img ProcLadis\Playground Img Proc\0001\obj\x86\Debug\0001.csproj.CoreCompileInputs.cache
+C:\Users\f126a\Downloads\Playground Img ProcLadis\Playground Img ProcLadis\Playground Img Proc\0001\obj\x86\Debug\0001.exe
+C:\Users\f126a\Downloads\Playground Img ProcLadis\Playground Img ProcLadis\Playground Img Proc\0001\obj\x86\Debug\0001.pdb
